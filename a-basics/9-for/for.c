@@ -3,7 +3,7 @@
 int main() {
     int n;
 
-    printf("Result");
+    printf("Result \n");
 
     for (n = 0; n <= 10; n++)
     {
