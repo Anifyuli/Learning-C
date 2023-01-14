@@ -3,8 +3,7 @@
 int main() {
     int date = 1;
 
-    do
-    {
+    do {
         printf("%d \n", date);
         date++;
     } while (date <= 31);
